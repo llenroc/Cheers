@@ -3,6 +3,7 @@ CQRS stack
 
 ## Libraries
   * [Cheers.Cqrs](https://github.com/ValtechInnovation/Cheers.Cqrs) : CQRS contracts 
+  * [Cheers.Diagnostic](https://github.com/ValtechInnovation/Cheers.Diagnostic) : Diagnostic contracts
 
 ## Licence
 
