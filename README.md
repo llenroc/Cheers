@@ -1,6 +1,9 @@
 # Cheers
 WebApi CQRS stack
 
+## Libraries
+  * [Cheers.Cqrs](https://github.com/ValtechInnovation/Cheers.Cqrs) : CQRS contracts 
+
 ## Licence
 
 The MIT License (MIT)
