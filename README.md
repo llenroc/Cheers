@@ -1,5 +1,5 @@
 # Cheers
-WebApi CQRS stack
+CQRS stack
 
 ## Libraries
   * [Cheers.Cqrs](https://github.com/ValtechInnovation/Cheers.Cqrs) : CQRS contracts 
