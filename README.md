@@ -4,15 +4,15 @@ CQRS stack
 ## Libraries
 ======
 
- ### Contracts :
+### Contracts :
   * [Cheers.Cqrs](https://github.com/ValtechInnovation/Cheers.Cqrs) : CQRS contracts 
   * [Cheers.ServiceLocator](https://github.com/ValtechInnovation/Cheers.ServiceLocator) : ServiceLocator contracts
   * [Cheers.Diagnostic](https://github.com/ValtechInnovation/Cheers.Diagnostic) : Diagnostic contracts
 
- ### Implementations :
+### Implementations :
   * [Cheers.Cqrs.InMemory](https://github.com/ValtechInnovation/Cheers.Cqrs.InMemory) : Cheers in memory CQRS implementation
  
- ### Extensions :
+### Extensions :
   * [Cheers.Owin.Swagger](https://github.com/ValtechInnovation/Cheers.Owin.Swagger) : Cheers Swagger extension
   
   
