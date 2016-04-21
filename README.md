@@ -4,7 +4,7 @@ CQRS stack
 
 ## Libraries
 
-### Stacks :
+#### Stacks :
   * [Cheers.Owin]() : Cheers CQRS Owin Stack (Pending)
 
 #### Contracts :
