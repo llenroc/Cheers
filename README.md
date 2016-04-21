@@ -3,6 +3,9 @@ CQRS stack
 
 ## Libraries
 
+### Stacks :
+  * [Cheers.Owin]() : Cheers CQRS Owin Stack (Pending)
+
 ### Contracts :
   * [Cheers.Cqrs](https://github.com/ValtechInnovation/Cheers.Cqrs) : CQRS contracts 
   * [Cheers.ServiceLocator](https://github.com/ValtechInnovation/Cheers.ServiceLocator) : ServiceLocator contracts
