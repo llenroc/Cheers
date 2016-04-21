@@ -2,7 +2,6 @@
 CQRS stack
 
 ## Libraries
-======
 
 ### Contracts :
   * [Cheers.Cqrs](https://github.com/ValtechInnovation/Cheers.Cqrs) : CQRS contracts 
