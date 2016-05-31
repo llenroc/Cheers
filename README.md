@@ -14,6 +14,7 @@ CQRS stack
 
 #### Implementations :
   * [Cheers.Cqrs.InMemory](https://github.com/ValtechInnovation/Cheers.Cqrs.InMemory) : Cheers in memory CQRS implementation
+  * [Cheers.ServiceLocator.StructureMap](https://github.com/ValtechInnovation/Cheers.ServiceLocator.StructureMap) : Cheers ServiceLocator implementation with StructureMap container
  
 #### Extensions :
   * [Cheers.Owin.Swagger](https://github.com/ValtechInnovation/Cheers.Owin.Swagger) : Cheers Swagger extension
