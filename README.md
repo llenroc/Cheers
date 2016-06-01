@@ -15,6 +15,7 @@ CQRS stack
 #### Implementations :
   * [Cheers.Cqrs.InMemory](https://github.com/ValtechInnovation/Cheers.Cqrs.InMemory) : Cheers in memory CQRS implementation
   * [Cheers.ServiceLocator.StructureMap](https://github.com/ValtechInnovation/Cheers.ServiceLocator.StructureMap) : Cheers ServiceLocator implementation with StructureMap container
+  * [Cheers.Diagnostic.NLog](https://github.com/ValtechInnovation/Cheers.Diagnostic.NLog) : Cheers Diagnostic implementation with NLog (.Net4 only)
  
 #### Extensions :
   * [Cheers.Owin.Swagger](https://github.com/ValtechInnovation/Cheers.Owin.Swagger) : Cheers Swagger extension
