@@ -1,6 +1,6 @@
 # Cheers
 
-Cheers is a complet set of Nuget packages which ease you the build of an application. Your business can be implement with the CQRS pattern.
+Cheers is a complet set of micro Nuget packages which ease you the build of an application. Your business can be implement with the CQRS pattern. The stack is perfect to develop Microservices !
 
 */!\ Packages are currently in development and a sample to use it with OWIN WebApi will be avaible soon :)*
 
