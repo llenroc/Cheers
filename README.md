@@ -2,7 +2,7 @@
 
 Cheers is a complet set of micro Nuget packages which ease you the build of an application. Your business can be implement with the CQRS pattern. The stack is perfect to develop Microservices !
 
-*/!\ Packages are currently in development and a sample to use it with OWIN WebApi will be avaible soon :)*
+*/!\ Packages are currently in development and a sample to use them with OWIN WebApi will be avaible soon :)*
 
 
 ## Packages
@@ -18,6 +18,8 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 | [Cheers.Cqrs](https://github.com/ValtechInnovation/Cheers.Cqrs) | Cheers CQRS contracts | [![Build status](https://ci.appveyor.com/api/projects/status/3s0e0yos3hfn402q?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-cqrs) | [![NuGet version](https://badge.fury.io/nu/Cheers.Cqrs.svg)](https://badge.fury.io/nu/Cheers.Cqrs)
 | [Cheers.ServiceLocator](https://github.com/ValtechInnovation/Cheers.ServiceLocator) | ServiceLocator contracts | [![Build status](https://ci.appveyor.com/api/projects/status/2flp146jy959eh2a?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-servicelocator) | [![NuGet version](https://badge.fury.io/nu/Cheers.ServiceLocator.svg)](https://badge.fury.io/nu/Cheers.ServiceLocator) |
 | [Cheers.Diagnostic](https://github.com/ValtechInnovation/Cheers.Diagnostic) | Diagnostic contracts | [![Build status](https://ci.appveyor.com/api/projects/status/fbyqpt5utq0g4n6c?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-diagnostic) | [![NuGet version](https://badge.fury.io/nu/Cheers.Diagnostic.svg)](https://badge.fury.io/nu/Cheers.Diagnostic) |
+| [Cheers.Data.Finder](https://github.com/ValtechInnovation/Cheers.Data.Finder) | Cheers data finder | Pending | Pending |
+| [Cheers.Data.Repository](https://github.com/ValtechInnovation/Cheers.Data.Repository) | Cheers data repository | Pending | Pending |
 
 #### Implementations :
 | Package | Description | CI | Nuget |
@@ -25,6 +27,7 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 | [Cheers.Cqrs.InMemory](https://github.com/ValtechInnovation/Cheers.Cqrs.InMemory) | Cheers in memory CQRS | [![Build status](https://ci.appveyor.com/api/projects/status/1870mem44xsjwn89?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-cqrs-inmemory) | [![NuGet version](https://badge.fury.io/nu/Cheers.Cqrs.InMemory.svg)](https://badge.fury.io/nu/Cheers.Cqrs.InMemory) |
 | [Cheers.ServiceLocator.StructureMap](https://github.com/ValtechInnovation/Cheers.ServiceLocator.StructureMap) | Cheers ServiceLocator with StructureMap | [![Build status](https://ci.appveyor.com/api/projects/status/76barchpvl5qw31s?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-servicelocator-structuremap) | [![NuGet version](https://badge.fury.io/nu/Cheers.ServiceLocator.StructureMap.svg)](https://badge.fury.io/nu/Cheers.ServiceLocator.StructureMap) |
 | [Cheers.Diagnostic.NLog](https://github.com/ValtechInnovation/Cheers.Diagnostic.NLog) | Cheers Diagnostic with NLog | [![Build status](https://ci.appveyor.com/api/projects/status/m75eqjt47on3bo7x?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-diagnostic-nlog) | [![NuGet version](https://badge.fury.io/nu/Cheers.Diagnostic.NLog.svg)](https://badge.fury.io/nu/Cheers.Diagnostic.NLog) |
+| [Cheers.Data.EntityFramework](https://github.com/ValtechInnovation/Cheers.Data.EntityFramework) | Cheers data with EF | Pending | Pending |
  
 #### Extensions :
 | Package | Description | CI | Nuget |
