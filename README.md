@@ -23,7 +23,7 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 | Package | Description | CI | Nuget |
 | --- | --- | --- | --- |
 | [Cheers.Cqrs.InMemory](https://github.com/ValtechInnovation/Cheers.Cqrs.InMemory) | Cheers in memory CQRS | [![Build status](https://ci.appveyor.com/api/projects/status/1870mem44xsjwn89?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-cqrs-inmemory) | [![NuGet version](https://badge.fury.io/nu/Cheers.Cqrs.InMemory.svg)](https://badge.fury.io/nu/Cheers.Cqrs.InMemory) |
-| [Cheers.ServiceLocator.StructureMap](https://github.com/ValtechInnovation/Cheers.ServiceLocator.StructureMap) | Cheers ServiceLocator with StructureMap | Pending | Pending |
+| [Cheers.ServiceLocator.StructureMap](https://github.com/ValtechInnovation/Cheers.ServiceLocator.StructureMap) | Cheers ServiceLocator with StructureMap | [![Build status](https://ci.appveyor.com/api/projects/status/76barchpvl5qw31s?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-servicelocator-structuremap) | [![NuGet version](https://badge.fury.io/nu/Cheers.ServiceLocator.StructureMap.svg)](https://badge.fury.io/nu/Cheers.ServiceLocator.StructureMap) |
 | [Cheers.Diagnostic.NLog](https://github.com/ValtechInnovation/Cheers.Diagnostic.NLog) | Cheers Diagnostic with NLog | [![Build status](https://ci.appveyor.com/api/projects/status/m75eqjt47on3bo7x?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-diagnostic-nlog) | [![NuGet version](https://badge.fury.io/nu/Cheers.Diagnostic.NLog.svg)](https://badge.fury.io/nu/Cheers.Diagnostic.NLog) |
  
 #### Extensions :
