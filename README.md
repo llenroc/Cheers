@@ -32,8 +32,11 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 #### Extensions :
 | Package | Description | CI | Nuget |
 | --- | --- | --- | --- |
-| [Cheers.Owin.Swagger](https://github.com/ValtechInnovation/Cheers.Owin.Swagger) | Swagger API explorer for OWIN WebApi Cheers stack | Pending | Pending |
-  
+| [Cheers.Owin.WebApi.Swagger](https://github.com/ValtechInnovation/Cheers.Owin.WebApi.Swagger) | Swagger API explorer for OWIN WebApi Cheers stack | Pending | Pending |
+| [Cheers.Owin.WebApi.Container](https://github.com/ValtechInnovation/Cheers.Owin.WebApi.Container) | | Pending | Pending |
+| [Cheers.Owin.WebApi.DependencyResolver](https://github.com/ValtechInnovation/Cheers.Owin.WebApi.DependencyResolver) | | Pending | Pending |
+| [Cheers.Owin.WebApi.Exception](https://github.com/ValtechInnovation/Cheers.Owin.WebApi.Exception) | | Pending | Pending |
+| [Cheers.Owin.WebApi.Transaction](https://github.com/ValtechInnovation/Cheers.Owin.WebApi.Transaction) | | Pending | Pending |
   
 ## Licence
 
