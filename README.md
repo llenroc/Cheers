@@ -1,16 +1,17 @@
 # Cheers
 
-Cheers is a complet set of micro Nuget packages which ease you the build of an application. Your business can be implement with the CQRS pattern. The stack is perfect to develop Microservices or Minimum Value Product !
+Cheers is a complet set of micro Nuget packages which ease you the build of an application. Your business can be implement with the CQRS pattern. The stack is perfect for Microservices !
 
-*/!\ Packages are currently in development, samples & documentation will be avaible soon*
+**/!\ Packages are currently in development, samples & documentation will be avaible soon**
 
 
 ## Packages
 
-#### Stacks :
+#### Solution stacks :
 | Package | Description | CI | Nuget |
 | --- | --- | --- | --- |
-| [Cheers.Owin.WebApi](https://github.com/ValtechInnovation/Cheers.Owin.WebApi) | Cheers CQRS Owin WebApi Stack | Pending | Pending |
+| [Cheers.Owin.WebApi](https://github.com/ValtechInnovation/Cheers.Owin.WebApi) | CQRS Owin WebApi Stack | Pending | Pending |
+| [Cheers.Cli.Net4](https://github.com/ValtechInnovation/Cheers.Owin.WebApi) | Common language interface for CLR 4 | Pending | Pending | 
 
 #### Contracts :
 | Package | Description | CI | Nuget |
@@ -37,13 +38,25 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 | [Cheers.Owin.WebApi.Exception](https://github.com/ValtechInnovation/Cheers.Owin.WebApi.Exception) | | Pending | Pending |
 | [Cheers.Owin.WebApi.Transaction](https://github.com/ValtechInnovation/Cheers.Owin.WebApi.Transaction) | | Pending | Pending |
 | [Cheers.Container.StructureMap](https://github.com/ValtechInnovation/Cheers.Container.StructureMap) | | [![Build status](https://ci.appveyor.com/api/projects/status/5p8ckkb34w139nia?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-container-structuremap) | [![NuGet version](https://badge.fury.io/nu/Cheers.Container.StructureMap.svg)](https://badge.fury.io/nu/Cheers.Container.StructureMap) |
-  
-## Licence
 
+
+## Founders
+
+* [David Huard](https://twitter.com/David_Huard)
+* [Julien PAVON](https://twitter.com/JulienPavon)
+* [Sylvain PONTOREAU](https://twitter.com/spontoreau)
+
+
+## Special mention
+
+Thanks to [Valtech](https://www.valtech.fr/) and especially Victor Salas for authorize us to publish the base code of Cheers on Github.
+
+
+## Licence
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Cheers Team
+Copyright (c) 2016 Cheers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
