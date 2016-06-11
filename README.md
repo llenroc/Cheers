@@ -43,7 +43,7 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Valtech
+Copyright (c) 2016 Cheers Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
