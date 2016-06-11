@@ -1,6 +1,6 @@
 # Cheers
 
-Cheers is a complet set of micro Nuget packages which ease you the build of an application. Your business can be implement with the CQRS pattern. The stack is perfect to develop Microservices or Minimum Value Product !
+Cheers is a complet set of micro Nuget packages which ease you the build of an application. Your business can be implement with the CQRS pattern. The stack is perfect for Microservices !
 
 **/!\ Packages are currently in development, samples & documentation will be avaible soon**
 
