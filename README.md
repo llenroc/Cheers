@@ -36,7 +36,7 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 | [Cheers.Owin.WebApi.DependencyResolver](https://github.com/ValtechInnovation/Cheers.Owin.WebApi.DependencyResolver) | | Pending | Pending |
 | [Cheers.Owin.WebApi.Exception](https://github.com/ValtechInnovation/Cheers.Owin.WebApi.Exception) | | Pending | Pending |
 | [Cheers.Owin.WebApi.Transaction](https://github.com/ValtechInnovation/Cheers.Owin.WebApi.Transaction) | | Pending | Pending |
-| [Cheers.Container.StructureMap](https://github.com/ValtechInnovation/Cheers.Container.StructureMap) | | Pending | Pending |
+| [Cheers.Container.StructureMap](https://github.com/ValtechInnovation/Cheers.Container.StructureMap) | | [![Build status](https://ci.appveyor.com/api/projects/status/5p8ckkb34w139nia?svg=true)](https://ci.appveyor.com/project/ValtechInnovation-ci/cheers-container-structuremap) | [![NuGet version](https://badge.fury.io/nu/Cheers.Container.StructureMap.svg)](https://badge.fury.io/nu/Cheers.Container.StructureMap) |
   
 ## Licence
 
