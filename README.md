@@ -33,7 +33,7 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 #### Extensions :
 | Package | Description | CI | Nuget |
 | --- | --- | --- | --- |
-| [Cheers.Owin.WebApi.Swagger](https://github.com/Cheers/Cheers.Owin.WebApi.Swagger) | Swagger API explorer for OWIN WebApi Cheers stack | Pending | Pending |
+| [Cheers.Owin.WebApi.Swagger](https://github.com/Cheers/Cheers.Owin.WebApi.Swagger) | Swagger API explorer for OWIN WebApi Cheers stack | [![Build status](https://ci.appveyor.com/api/projects/status/jyj07lbcqoeittqt?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-owin-webapi-swagger) | [![NuGet version](https://badge.fury.io/nu/Cheers.Owin.WebApi.Swagger.svg)](https://badge.fury.io/nu/Cheers.Owin.WebApi.Swagger) |
 | [Cheers.Owin.WebApi.DependencyResolver](https://github.com/Cheers/Cheers.Owin.WebApi.DependencyResolver) | WebApi depenceny resolver | [![Build status](https://ci.appveyor.com/api/projects/status/b57xpnrc9b12km22?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-owin-webapi-dependencyresolver) | [![NuGet version](https://badge.fury.io/nu/Cheers.Owin.WebApi.DependencyResolver.svg)](https://badge.fury.io/nu/Cheers.Owin.WebApi.DependencyResolver) |
 | [Cheers.Owin.WebApi.Exception](https://github.com/Cheers/Cheers.Owin.WebApi.Exception) | | Pending | Pending |
 | [Cheers.Owin.WebApi.Transaction](https://github.com/Cheers/Cheers.Owin.WebApi.Transaction) | | Pending | Pending |
