@@ -12,6 +12,7 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 | --- | --- | --- | --- |
 | [Cheers.Owin.WebApi](https://github.com/Cheers/Cheers.Owin.WebApi) | CQRS Owin WebApi Stack | Pending | Pending |
 | [Cheers.Cli](https://github.com/Cheers/Cheers.Cli) | Command line interface | Pending | Pending | 
+| [Cheers.Core.WebApi](https://github.com/Cheers/Cheers.Core.WebApi) | CQRS .Net Core WebApi Stack | Pending | Pending | 
 
 #### Contracts :
 | Package | Description | CI | Nuget |
