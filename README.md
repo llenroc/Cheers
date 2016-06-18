@@ -33,6 +33,8 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 | [Cheers.Data.EntityFramework](https://github.com/Cheers/Cheers.Data.EntityFramework) | Cheers data with EntityFramework 7+ | Pending | Pending |
  
 #### Common Extensions : 
+| Package | Description | CI | Nuget |
+| --- | --- | --- | --- |
 | [Cheers.Container.StructureMap](https://github.com/Cheers/Cheers.Container.StructureMap) | | [![Build status](https://ci.appveyor.com/api/projects/status/gsloqdtombcc8uso?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-container-structuremap) | [![NuGet version](https://badge.fury.io/nu/Cheers.Container.StructureMap.svg)](https://badge.fury.io/nu/Cheers.Container.StructureMap) |
  
 #### WebApi OWIN Extensions :
@@ -44,7 +46,6 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 | [Cheers.Owin.WebApi.Transaction](https://github.com/Cheers/Cheers.Owin.WebApi.Transaction) | | Pending | Pending |
 
 #### WebApi .Net Core Extensions :
-
 Available soon !
 
 
