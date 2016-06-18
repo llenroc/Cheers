@@ -26,18 +26,26 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 | Package | Description | CI | Nuget |
 | --- | --- | --- | --- |
 | [Cheers.Cqrs.InMemory](https://github.com/Cheers/Cheers.Cqrs.InMemory) | Cheers in memory CQRS | [![Build status](https://ci.appveyor.com/api/projects/status/e4s3c28gn2qfpa8q?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-cqrs-inmemory) | [![NuGet version](https://badge.fury.io/nu/Cheers.Cqrs.InMemory.svg)](https://badge.fury.io/nu/Cheers.Cqrs.InMemory) |
+| [Cheers.Cqrs.Exception](https://github.com/Cheers/Cheers.Data.Exception) | Cheers CQRS expections | Pending | Pending |
 | [Cheers.ServiceLocator.StructureMap](https://github.com/Cheers/Cheers.ServiceLocator.StructureMap) | Cheers ServiceLocator with StructureMap | [![Build status](https://ci.appveyor.com/api/projects/status/4eo9mcgsnglye1cd?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-servicelocator-structuremap) | [![NuGet version](https://badge.fury.io/nu/Cheers.ServiceLocator.StructureMap.svg)](https://badge.fury.io/nu/Cheers.ServiceLocator.StructureMap) |
 | [Cheers.Diagnostic.NLog](https://github.com/Cheers/Cheers.Diagnostic.NLog) | Cheers Diagnostic with NLog | [![Build status](https://ci.appveyor.com/api/projects/status/d6u740fbuxnnr0pw?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-diagnostic-nlog) | [![NuGet version](https://badge.fury.io/nu/Cheers.Diagnostic.NLog.svg)](https://badge.fury.io/nu/Cheers.Diagnostic.NLog) |
 | [Cheers.Data.EF6](https://github.com/Cheers/Cheers.Data.EF6) | Cheers data with EF 6 | [![Build status](https://ci.appveyor.com/api/projects/status/rftjp7y2sau7hffx?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-data-ef6) | [![NuGet version](https://badge.fury.io/nu/Cheers.Data.EF6.svg)](https://badge.fury.io/nu/Cheers.Data.EF6) |
+| [Cheers.Data.EntityFramework](https://github.com/Cheers/Cheers.Data.EntityFramework) | Cheers data with EntityFramework 7+ | Pending | Pending |
  
-#### Extensions :
+#### Common Extensions : 
+| [Cheers.Container.StructureMap](https://github.com/Cheers/Cheers.Container.StructureMap) | | [![Build status](https://ci.appveyor.com/api/projects/status/gsloqdtombcc8uso?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-container-structuremap) | [![NuGet version](https://badge.fury.io/nu/Cheers.Container.StructureMap.svg)](https://badge.fury.io/nu/Cheers.Container.StructureMap) |
+ 
+#### WebApi OWIN Extensions :
 | Package | Description | CI | Nuget |
 | --- | --- | --- | --- |
 | [Cheers.Owin.WebApi.Swagger](https://github.com/Cheers/Cheers.Owin.WebApi.Swagger) | Swagger API explorer for OWIN WebApi Cheers stack | [![Build status](https://ci.appveyor.com/api/projects/status/jyj07lbcqoeittqt?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-owin-webapi-swagger) | [![NuGet version](https://badge.fury.io/nu/Cheers.Owin.WebApi.Swagger.svg)](https://badge.fury.io/nu/Cheers.Owin.WebApi.Swagger) |
 | [Cheers.Owin.WebApi.DependencyResolver](https://github.com/Cheers/Cheers.Owin.WebApi.DependencyResolver) | WebApi depenceny resolver | [![Build status](https://ci.appveyor.com/api/projects/status/b57xpnrc9b12km22?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-owin-webapi-dependencyresolver) | [![NuGet version](https://badge.fury.io/nu/Cheers.Owin.WebApi.DependencyResolver.svg)](https://badge.fury.io/nu/Cheers.Owin.WebApi.DependencyResolver) |
 | [Cheers.Owin.WebApi.Exception](https://github.com/Cheers/Cheers.Owin.WebApi.Exception) | | Pending | Pending |
 | [Cheers.Owin.WebApi.Transaction](https://github.com/Cheers/Cheers.Owin.WebApi.Transaction) | | Pending | Pending |
-| [Cheers.Container.StructureMap](https://github.com/Cheers/Cheers.Container.StructureMap) | | [![Build status](https://ci.appveyor.com/api/projects/status/gsloqdtombcc8uso?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-container-structuremap) | [![NuGet version](https://badge.fury.io/nu/Cheers.Container.StructureMap.svg)](https://badge.fury.io/nu/Cheers.Container.StructureMap) |
+
+#### WebApi .Net Core Extensions :
+
+Available soon !
 
 
 ## Founders
