@@ -35,7 +35,7 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 #### Common Extensions : 
 | Package | Description | CI | Nuget |
 | --- | --- | --- | --- |
-| [Cheers.Container.StructureMap](https://github.com/Cheers/Cheers.Container.StructureMap) | | [![Build status](https://ci.appveyor.com/api/projects/status/gsloqdtombcc8uso?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-container-structuremap) | [![NuGet version](https://badge.fury.io/nu/Cheers.Container.StructureMap.svg)](https://badge.fury.io/nu/Cheers.Container.StructureMap) |
+| [Cheers.Container.StructureMap](https://github.com/Cheers/Cheers.Container.StructureMap) | Cheers container auto registration | [![Build status](https://ci.appveyor.com/api/projects/status/gsloqdtombcc8uso?svg=true)](https://ci.appveyor.com/project/Cheers-CI/cheers-container-structuremap) | [![NuGet version](https://badge.fury.io/nu/Cheers.Container.StructureMap.svg)](https://badge.fury.io/nu/Cheers.Container.StructureMap) |
  
 #### WebApi OWIN Extensions :
 | Package | Description | CI | Nuget |
