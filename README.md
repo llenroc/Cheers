@@ -50,6 +50,9 @@ Cheers is a complet set of micro Nuget packages which ease you the build of an a
 Available soon !
 
 
+## Samples 
+* [OWIN WebApi Self host](https://github.com/Cheers/Samples/tree/master/OwinSelfHost)
+
 ## Founders
 
 * [David Huard](https://twitter.com/David_Huard)
