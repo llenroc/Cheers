@@ -53,6 +53,15 @@ Available soon !
 ## Samples 
 * [OWIN WebApi Self host](https://github.com/Cheers/Samples/tree/master/OwinSelfHost)
 
+
+## Documentation
+The documentation can be find [Here](https://github.com/Cheers/Cheers/wiki)
+
+
+## Contributing
+Please read [this](https://github.com/Cheers/Cheers/blob/master/CONTRIBUTING.md) !
+
+
 ## Founders
 
 * [David Huard](https://twitter.com/David_Huard)
