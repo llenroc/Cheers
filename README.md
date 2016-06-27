@@ -76,6 +76,10 @@ Please read [this](https://github.com/Cheers/Cheers/blob/master/CONTRIBUTING.md)
 Thanks to [Valtech](https://www.valtech.fr/) and especially Victor Salas for authorize us to publish the base code of Cheers on Github.
 
 
+## Icon
+
+Cheers icon is base on a work of Sergei Kokota (Icon is in [Creative Commons 2.5](https://creativecommons.org/licenses/by/2.5/) licence)
+
 ## Licence
 
 The MIT License (MIT)
