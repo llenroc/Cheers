@@ -78,7 +78,7 @@ Thanks to [Valtech](https://www.valtech.fr/) and especially Victor Salas for aut
 
 ## Icon
 
-Cheers icon is base on a work of Sergei Kokota (Icon is in [Creative Commons 2.5](https://creativecommons.org/licenses/by/2.5/) licence)
+Cheers icon is base on [Sergei Kokota](https://www.facebook.com/Iconko-1093341900698327/) works ([Creative Commons 2.5](https://creativecommons.org/licenses/by/2.5/) licence)
 
 ## Licence
 
