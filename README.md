@@ -61,14 +61,14 @@ Available soon !
 
 
 ## Documentation
-The documentation can be find [Here](https://github.com/Cheers/Cheers/wiki)
+The documentation can be find [Here](https://cheers.github.io/doc/)
 
 
 ## Contributing
 Please read [this](https://github.com/Cheers/Cheers/blob/master/CONTRIBUTING.md) !
 
 
-## Founders
+## Active contributors
 
 * [David Huard](https://twitter.com/David_Huard)
 * [Julien PAVON](https://twitter.com/JulienPavon)
@@ -83,6 +83,7 @@ Thanks to [Valtech](https://www.valtech.fr/) and especially Victor Salas for aut
 ## Icon
 
 Cheers icon is base on [Sergei Kokota](https://www.facebook.com/Iconko-1093341900698327/) works ([Creative Commons 2.5](https://creativecommons.org/licenses/by/2.5/))
+
 
 ## Licence
 
