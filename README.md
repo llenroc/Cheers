@@ -1,10 +1,14 @@
 # Cheers
 
-Cheers is a complet set of micro Nuget packages which ease you the build of an application. Your business can be implemented with the CQRS pattern. This stack is an excellent choice for Microservices development ! 
+**/!\ Cheers is currently under development**
 
-Checkout our [documentation](https://cheers.github.io/Documentation/) for more informations.
+Cheers is a feature oriented stack. Compose with a complete set of **Nuget** µPackages, it ease you the build of back-end application.
 
-**/!\ Packages are currently under development, samples & documentation will be available soon**
+Cheers help you to move away from a "*technical*" to a more "*valuable*" approach of application development. All your features can be implement with the **CQRS** pattern and will respect **SOLID** principles.
+
+The stack is a great choice for **BDD**/**TDD**/**DDD** projects, **Microservices** or **Minimum Value Product**.
+
+More information in our [documentation](https://cheers.github.io/doc/)
 
 
 ## Packages
