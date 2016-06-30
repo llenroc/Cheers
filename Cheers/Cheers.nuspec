@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Cheers</id>
+    <version>0.1.0-alpha</version>
+    <title>Cheers</title>
+    <authors>Cheers</authors>
+    <owners>Cheers</owners>
+    <licenseUrl>https://github.com/Cheers/Cheers/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://cheers.github.io/</projectUrl>
+    <iconUrl>https://cheers.github.io/images/cheers.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Cheers</description>
+    <copyright>Copyright 2016 Cheers</copyright>
+    <tags>Cheers</tags>
+    <dependencies>
+		<dependency id="Cheers.Container.StructureMap" version="1.0.2" />
+		<dependency id="Cheers.Cqrs" version="1.2.1" />
+		<dependency id="Cheers.Cqrs.Exception" version="1.0.0" />
+		<dependency id="Cheers.Cqrs.InMemory" version="1.2.1" />
+		<dependency id="Cheers.Data.EF6" version="1.1.1" />
+		<dependency id="Cheers.Data.Finder" version="1.4.0" />
+		<dependency id="Cheers.Data.Repository" version="1.2.1" />
+		<dependency id="Cheers.Diagnostic" version="1.0.1" />
+		<dependency id="Cheers.Diagnostic.NLog" version="1.0.2" />
+		<dependency id="Cheers.Owin.WebApi.DependencyResolver" version="1.0.0" />
+		<dependency id="Cheers.Owin.WebApi.Exception" version="1.0.0" />
+		<dependency id="Cheers.Owin.WebApi.Swagger" version="1.0.0" />
+		<dependency id="Cheers.Owin.WebApi.Transaction" version="1.0.1" />
+		<dependency id="Cheers.ServiceLocator" version="1.0.1" />
+		<dependency id="Cheers.ServiceLocator.StructureMap" version="1.0.1" />
+    </dependencies>
+  </metadata>
+</package>
