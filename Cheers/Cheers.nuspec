@@ -30,7 +30,7 @@
     	<dependency id="Cheers.Owin.WebApi.Swagger" version="1.0.0" />
     	<dependency id="Cheers.Owin.WebApi.DependencyResolver" version="1.0.0" />
     	<dependency id="Cheers.Owin.WebApi.Exception" version="1.0.0" />
-    	<dependency id="Cheers.Owin.WebApi.Transaction" version="1.0.1" />
+    	<dependency id="Cheers.Owin.WebApi.Transaction" version="1.0.2" />
     </dependencies>
   </metadata>
 </package>
