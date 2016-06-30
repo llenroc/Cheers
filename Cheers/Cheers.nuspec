@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Cheers</id>
-    <version>0.1.1-alpha</version>
+    <version>0.1.2-alpha</version>
     <title>Cheers</title>
     <authors>Cheers</authors>
     <owners>Cheers</owners>
@@ -24,7 +24,6 @@
     	<dependency id="Cheers.Cqrs.Exception" version="1.0.0" />
     	<dependency id="Cheers.ServiceLocator.StructureMap" version="1.0.1" />
     	<dependency id="Cheers.Diagnostic.NLog" version="1.0.2" />
-    	<dependency id="Cheers.Data.EF6" version="1.1.1" />
     	
     	<dependency id="Cheers.Container.StructureMap" version="1.0.2" />
     	
