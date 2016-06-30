@@ -10,7 +10,7 @@ The stack is a great choice for **BDD**/**TDD**/**DDD** projects, **Microservice
 
 More information in our [documentation](https://cheers.github.io/doc/)
 
-## Stack platforms
+## Stack
 
 | Platform | Status |
 | --- | --- |
