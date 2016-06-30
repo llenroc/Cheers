@@ -14,7 +14,7 @@ configuration: Release
 test: off
 
 build:
-      project: Cheers.sln
+      project: Cheers/Cheers.sln
       verbosity: normal
       publish_nuget: true
       include_nuget_references: true
