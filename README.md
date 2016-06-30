@@ -10,15 +10,14 @@ The stack is a great choice for **BDD**/**TDD**/**DDD** projects, **Microservice
 
 More information in our [documentation](https://cheers.github.io/doc/)
 
+## Stack platforms
+
+| Platform | Status |
+| --- | --- |
+| .NET Framework | Supported since 0.1.0-alpha |
+| .NET Core | Pending |
 
 ## Packages
-
-#### Solution stacks :
-| Package | Description | CI | Nuget |
-| --- | --- | --- | --- |
-| [Cheers.Owin.WebApi](https://github.com/Cheers/Cheers.Owin.WebApi) | CQRS Owin WebApi Stack | Pending | Pending |
-| [Cheers.Cli](https://github.com/Cheers/Cheers.Cli) | Command line interface | Pending | Pending | 
-| [Cheers.Core.WebApi](https://github.com/Cheers/Cheers.Core.WebApi) | CQRS .Net Core WebApi Stack | Pending | Pending | 
 
 #### Contracts :
 | Package | Description | CI | Nuget |
