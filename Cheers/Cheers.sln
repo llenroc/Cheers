@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheers", "Cheers.csproj", "{EA29F20C-8185-4780-8625-B01D148826E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheers", "Cheers.csproj", "{6A928DF3-34D5-4F7E-8AC3-01722BB56BD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EA29F20C-8185-4780-8625-B01D148826E1}.Debug|x86.ActiveCfg = Debug|x86
-		{EA29F20C-8185-4780-8625-B01D148826E1}.Debug|x86.Build.0 = Debug|x86
-		{EA29F20C-8185-4780-8625-B01D148826E1}.Release|x86.ActiveCfg = Release|x86
-		{EA29F20C-8185-4780-8625-B01D148826E1}.Release|x86.Build.0 = Release|x86
+		{6A928DF3-34D5-4F7E-8AC3-01722BB56BD9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6A928DF3-34D5-4F7E-8AC3-01722BB56BD9}.Debug|x86.Build.0 = Debug|Any CPU
+		{6A928DF3-34D5-4F7E-8AC3-01722BB56BD9}.Release|x86.ActiveCfg = Release|Any CPU
+		{6A928DF3-34D5-4F7E-8AC3-01722BB56BD9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
