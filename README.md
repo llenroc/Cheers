@@ -12,10 +12,10 @@ More information in our [documentation](https://cheers.github.io/doc/)
 
 ## Stack
 
-| Platform | Status |
-| --- | --- |
-| .NET Framework | Supported since 0.1.0-alpha |
-| .NET Core | Pending |
+| Platform | Status | Nuget | Yeoman |
+| --- | --- | --- | --- |
+| .NET Framework | In development | Yes | In development |
+| .NET Core | Pending | No | No |
 
 ## Packages
 
